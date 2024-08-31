@@ -2,7 +2,7 @@
 
 ---
 
-# **Hi there, I'm [Amith Ajith Kumar] 👋**
+# **Hi there, I'm Amith Ajith Kumar 👋**
 
 ### **Aspiring Machine Learning Engineer | B.Tech in AI and Data Science**
 
